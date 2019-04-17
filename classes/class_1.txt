@@ -1,0 +1,10 @@
+Menu
+Attributes
+  - Name of restaurant (string)
+  - number of items on Menu (integer)
+  - Discount days (boolean)
+  - Specials paired with a barcode linked to instagram page
+Methods
+  - Is it a discount day? compare current day to days listed with discounts. Yes/No Uses discount days
+  - item_total - calculate number of items on menu. give integer response
+  - Discount code for specials (modifies price of specials at checkout)
