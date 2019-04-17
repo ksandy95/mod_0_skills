@@ -1,0 +1,12 @@
+If i am in restaurant talking about my class menu and an object that is an instance of my class could be a different restaurant location
+my attributes could be
+- hours of operation
+- phone number
+- address
+- specials
+
+if my method
+
+- discounts were called using barcode scanner, it would effect price after getting user input - barcode at location
+- call was used, it would use phone number hyperlink to open phone application and have number displayed
+- location was used it could use address hyperlink to open maps application to give directions from users current location.

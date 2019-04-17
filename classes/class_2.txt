@@ -1,0 +1,10 @@
+webpage
+  -Attributes
+    - menu categories (object)
+    - senior discount (string)
+    - birthday Specials (hash)
+  -Methods
+    - happy_birthday - (user input to collect data on birthday to give discount code for free cake)
+    - 65+ - (user submits information for a 10% discount off total. return float.)
+    - Lunch - (brings user to lunch menu options from dropdown menu)
+  

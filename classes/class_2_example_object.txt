@@ -1,0 +1,16 @@
+Social media account
+
+  - photos
+    -posted
+    -tagged
+  - reviews
+    -customer
+    -business
+  - rating
+    -star system out of 5
+
+methods
+ submit photo - (submit a photo to tagged photos from gallery or camera application)
+ leave a review - (Lets user leave review of service and product for other users to see)
+ give rating -( lets users give a 1-5 rating of restaurant and lets user see rating compared to submitted reviews.)
+ 
